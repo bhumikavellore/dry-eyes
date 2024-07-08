@@ -1,0 +1,10 @@
+none of the time = 0 
+some of the times = 1
+half of the time = 2
+most of the time = 3
+all the time= 4
+30-35 is havimg  exstearm dry eyes
+25-30 is having minor dry eyes
+15-25 is having min dry eyes
+0-15 is having no dry eyes
+
